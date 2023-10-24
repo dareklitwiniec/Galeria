@@ -2,7 +2,7 @@
 import ImageGallery from "react-image-grid-gallery";
 import styles from './page.module.css';
 import Footer from "../components/footer/Footer";
-import Modul from "../components/Modul/Modul";
+
 
 const imagesArray = [
     {

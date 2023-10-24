@@ -15,11 +15,6 @@ import Footer from './components/footer/Footer'
 export default function Home() {
   return (
     <>
-
-
-
-      {/* <div className="ground"> */}
-
       <img
         className=" parcel h-full w-full object-cover object-center lg:h-full lg:w-full "
         src='./images/Tlo01_ok.jpg'
@@ -36,11 +31,7 @@ export default function Home() {
       </div>
       <Footer />
 
-      {/* </div> */}
-
       <div>
-
-
       </div>
     </>
 
